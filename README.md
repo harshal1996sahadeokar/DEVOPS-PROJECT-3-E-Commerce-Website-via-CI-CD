@@ -75,7 +75,7 @@ This project showcases the implementation of a highly efficient CI/CD pipeline t
 ### Deployment Steps
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-repo/ecommerce-ci-cd-pipeline.git
+   git clone [https://github.com/your-repo/ecommerce-ci-cd-pipeline.git](https://github.com/harshal1996sahadeokar/DEVOPS-PROJECT-3-E-Commerce-Website-via-CI-CD.git)
    cd ecommerce-ci-cd-pipeline
    ```
 2. **Deploy Infrastructure with Terraform**
